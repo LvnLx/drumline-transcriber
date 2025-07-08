@@ -1,0 +1,10 @@
+bin
+include
+lib
+models
+share
+audio/extracted
+
+__pycache__/
+
+pyvenv.cfg

@@ -1,0 +1,7 @@
+file
+librosa
+matplotlib
+numpy
+soundfile
+tensorflow
+tqdm
