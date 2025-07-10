@@ -1,7 +1,6 @@
-file
-librosa
-matplotlib
-numpy
-soundfile
-tensorflow
-tqdm
+librosa~=0.11
+matplotlib~=3.10
+numpy~=2.1
+soundfile~=0.13
+tensorflow~=2.19
+tqdm~=4.67
