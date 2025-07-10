@@ -9,7 +9,7 @@ A Python toolchain for transcribing drumline audio recordings, built with [Tenso
 
 ## Quick Start
 
-Ensure you have met all the requirements above, from the root directory of the project do the following:
+Ensure you have met all the requirements above, then from the root directory of the project do the following:
 
 1. run `python3 dataset_generator.py --singles -d --divisor 2` to generate a dataset to be used by the neural network
 2. run `python3 network_generator.py` to train and generate a neural network on the generated dataset (feel free to checkout the training results that are output from the command)
